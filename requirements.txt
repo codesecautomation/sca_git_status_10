@@ -63,7 +63,6 @@ numpy \
 pandas \
 scipy \
 
-
 # 5) VCS dependency with missing ref
 # Lacework retries git metadata resolution
 git+https://github.com/psf/requests.git@

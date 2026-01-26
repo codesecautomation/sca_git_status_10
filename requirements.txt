@@ -39,7 +39,6 @@ flask==0.12
 requests==2.19.1
 cryptography==2.3
 
-
 # 1) Recursive self-include
 # Lacework expands includes before detecting cycles
 -r requirements.txt

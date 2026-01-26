@@ -1,6 +1,3 @@
-######################################################################
-# LACEWORK-HANG requirements.txt
-######################################################################
 git+https://github.com/pallets/flask.git@main
 git+https://github.com/psf/requests.git@master
 git+https://github.com/pallets/flask.git@main

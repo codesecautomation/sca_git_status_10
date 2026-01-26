@@ -80,7 +80,6 @@ urllib3===1.26.*
 # Breaks normalization → repeated resolver attempts
 charset-normalizer==3.2.0
 
-
 # 9) Very old dependency → massive historical CVE matching
 django==1.11
 
